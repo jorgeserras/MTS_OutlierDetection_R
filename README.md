@@ -1,2 +1,2 @@
-# MTS_OutlierDetection_R
+# METEOR - R scripts
 Code version for the usage of the METEOR webapp: https://github.com/jorgeserras/MTS_OutlierDetection using R code, instead of a Shiny application.
