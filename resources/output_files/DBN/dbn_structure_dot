@@ -1,0 +1,17 @@
+digraph dbn{
+
+X0_0[label="V1[0]"];
+X1_0[label="V2[0]"];
+
+X0_1[label="V1[1]", color = DodgerBlue];
+X1_1[label="V2[1]", color = DodgerBlue];
+
+
+X0_0 -> X0_1
+X1_0 -> X1_1
+
+X0_1 -> X1_1[color = DodgerBlue]
+
+
+}
+
